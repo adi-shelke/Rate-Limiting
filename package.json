@@ -1,0 +1,17 @@
+{
+  "name": "rate-limiting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "hono": "^4.4.9",
+    "wrangler": "^3.62.0"
+  }
+}
