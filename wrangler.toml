@@ -1,5 +1,0 @@
-compatibility_date = "2024-04-08"
-name="placeholder api rate limiting"
-[vars]
-REDIS_URL = "https://devoted-elf-34389.upstash.io"
-REDIS_TOKEN = "AYZVAAIncDE3ZDQ5MGZmNTc5MTg0MTAxYjAwNTlhMzhlOGEzNmIyYXAxMzQzODk"

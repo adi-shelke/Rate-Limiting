@@ -1,8 +1,6 @@
-/node_modules
-/.wrangler
-
-# Ignore environment variable files
 .env
-
-# Ignore Wrangler configuration file
+/.wrangler
+.env
+/node_modules
 wrangler.toml
+.gitignore
