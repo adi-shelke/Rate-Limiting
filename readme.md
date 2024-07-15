@@ -39,6 +39,11 @@ This project demonstrates how to implement rate limiting in a serverless API usi
 ### Usage
 * The API has a single endpoint /todos/:id which returns a todo item by its ID. The rate limiting is applied per IP address to prevent excessive requests.
 
+### Deployment
+* To deploy the project on cloudflare, run:
+    ```sh
+    npm run deploy
+
 ### Contributing
 * Contributions are welcome! Please feel free to submit a pull request.
     
